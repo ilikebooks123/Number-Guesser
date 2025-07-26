@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
+#include "my_module.h"
 
 #define DEBUG 
 #define MAX_ATTEMPTS 6
