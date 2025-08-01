@@ -49,7 +49,7 @@ int main(){
             }
 
             else if (input == rnumber ){
-               win_message(attempts);
+                win_message(attempts);
                 
                 scanf("%c", &continue_play);
                 
