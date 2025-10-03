@@ -1,6 +1,6 @@
-#ifndef MY_MODULE_H
+#ifndef LIB_H
 
-#define MY_MODULE_H
+#define LIB_H
 
 int random_number_generator();
 

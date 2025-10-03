@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include <time.h>
 #include <stdlib.h>
-#include "my_module.h"
+#include "lib.h"
 
 int random_number_generator(){
     srand(time(0));
